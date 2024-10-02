@@ -24,7 +24,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/caljee-calculator.git
+git clone https://github.com/Abhishek14PS/calJEE-calculator.git
 
 #Navigate to the project directory:
 
